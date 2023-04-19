@@ -1,11 +1,11 @@
 
-<div id="top"></div>
 
-<div align="center"> <h1> Welcome to the Java DSA repository!🔥 </h1>  <div>
+
+<div align="center"> <h1> Welcome to the Java DSA repository!🔥 </h1>  </div>
 
 <p>
 	<br>
-</p>  
+</p> 
 	
 ## *Data-Structure Topics:*
 
