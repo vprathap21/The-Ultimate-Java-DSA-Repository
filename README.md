@@ -20,20 +20,25 @@
 
 ## Most Basic types of array declaration:
 
-data-type varName[size];
+data-type arrayName[];
 
 OR
 
-data-type[size] varName;
+data-type[] arrayName;
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Initializing an array
+type[] arrayName = new type[arraySize];
 
+`type` is the data type of the elements in the array.
+`arrayName` is the name of the array variable.
+`arraySize` is the number of elements in the array.
 
 int[] arr = new int[size];
 
-OR
+
+You can also initialize the elements of the array at the time of declaration
 
 int[] arr = {0,1,2,3,4,5,6,7,8,9};
 
