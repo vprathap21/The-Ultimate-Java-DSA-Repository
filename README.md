@@ -1,7 +1,7 @@
 
 <div id="top"></div>
 
-<div align="center"> <h1> Welcome to the Java DSA repository!🔥 </h1>  
+<div align="center"> <h1> Welcome to the Java DSA repository!🔥 </h1>  <div>
 
 <p>
 	<br>
